@@ -3,7 +3,7 @@
 ### Dar caida a los jóvenes de 18 a 29 años que esten en proceso de Reinserción Social en el ámbito laboral
 
 ### Link Tiktok 
-[Nombre](https://vm.tiktok.com/ZMdcTWGr7/)
+[ReinsercionSocial](https://vm.tiktok.com/ZMdcTWGr7/)
 
 ### Diagrama de Azure 
 ![Diagrama](https://user-images.githubusercontent.com/86986964/127765613-52d9ea04-8bd2-4961-97de-29f543062fe7.png)
